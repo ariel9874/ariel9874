@@ -85,16 +85,16 @@
 
 <div align="center">
 
-| **Skill** | **Proficiency** |
-|-----------|----------------|
-| Python | ![90%](https://progress-bar.dev/90) |
-| Computer Vision | ![95%](https://progress-bar.dev/95) |
-| 3D Reconstruction | ![90%](https://progress-bar.dev/90) |
-| SLAM | ![85%](https://progress-bar.dev/85) |
-| Photogrammetry | ![90%](https://progress-bar.dev/90) |
-| Machine Learning | ![80%](https://progress-bar.dev/80) |
-| C++ | ![75%](https://progress-bar.dev/75) |
-| Docker | ![70%](https://progress-bar.dev/70) |
+| **Skill**           | **Proficiency** |
+|---------------------|-----------------|
+| Python              | ![90%](https://img.shields.io/badge/Level-90%25-brightgreen) |
+| Computer Vision     | ![95%](https://img.shields.io/badge/Level-95%25-brightgreen) |
+| 3D Reconstruction   | ![90%](https://img.shields.io/badge/Level-90%25-brightgreen) |
+| SLAM                | ![85%](https://img.shields.io/badge/Level-85%25-green) |
+| Photogrammetry      | ![90%](https://img.shields.io/badge/Level-90%25-brightgreen) |
+| Machine Learning    | ![80%](https://img.shields.io/badge/Level-80%25-yellowgreen) |
+| C++                 | ![75%](https://img.shields.io/badge/Level-75%25-yellow) |
+| Docker              | ![70%](https://img.shields.io/badge/Level-70%25-yellow) |
 
 </div>
 
@@ -130,7 +130,7 @@
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<!--
 ## 🏆 **Featured Projects**
 
 <div align="center">
@@ -143,7 +143,7 @@
 </a>
 
 </div>
-
+-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📊 **GitHub Analytics**
